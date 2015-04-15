@@ -1,1 +1,2 @@
-Tengo que aprender estadísitca
+Tengo que aprender estadísitca.
+El curso de R me gusta mucho.
